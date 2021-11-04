@@ -94,6 +94,10 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : &twitter ""
+youtube:  
+  username               : &youtube ""
+github:
+  username               : &github ""     
 facebook:
   username               :
   app_id                 :
@@ -106,7 +110,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com"
-    - "https://www.youtube.com/"
+    - "https://www.youtube.com"
     - "https://github.com/psyrig"
 
 # Analytics
@@ -136,7 +140,7 @@ author:
       url: "https://twitter.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
-      url: "https://www.youtube.com/"
+      url: "https://www.youtube.com"
    # - label: "Facebook"
    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -155,7 +159,7 @@ footer:
       url: "https://twitter.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
-      url: "https://www.youtube.com/"
+      url: "https://www.youtube.com"
     # label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:

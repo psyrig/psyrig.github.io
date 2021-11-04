@@ -97,7 +97,7 @@ twitter:
 youtube:  
   username               : &youtube ""
 github:
-  username               : &github ""     
+  username               : &github "psyrig"     
 facebook:
   username               :
   app_id                 :
@@ -136,16 +136,16 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-fw fa-twitter-square"
       url: "https://twitter.com"
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fa fa-fw fa-youtube-play"
       url: "https://www.youtube.com"
    # - label: "Facebook"
    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/psyrig"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
@@ -155,16 +155,16 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-fw fa-twitter-square"
       url: "https://twitter.com"
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fa fa-fw fa-youtube-play"
       url: "https://www.youtube.com"
     # label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/psyrig"
     # label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"

@@ -154,14 +154,14 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com"
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/"
     # label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      rl: "https://github.com/psyrig"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/psyrig"
     # label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:

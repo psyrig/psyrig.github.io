@@ -16,8 +16,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIWbjgPYcJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
 ## Projekt 2 (image option 2)
 
 ![image-full]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-700x362.jpg){: .full}

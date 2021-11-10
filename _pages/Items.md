@@ -3,6 +3,7 @@ title: "Items"
 layout: splash
 permalink: /items/
 ---
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At (25 Wörter).
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-left}
 

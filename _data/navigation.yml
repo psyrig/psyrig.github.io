@@ -10,3 +10,5 @@ main:
     url: /people/
   - title: "Contact"
     url: /contact/
+  - title: "Legal Information & Privacy Policy"
+    url: /legals_and_privacy/

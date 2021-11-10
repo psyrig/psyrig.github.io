@@ -30,7 +30,7 @@ Internet: [https://psyrig.github.io](https://psyrig.github.io)
 
 (name)
 (street)
-(place) 
+(place)
 (country)
 
 ### Disclaimer

@@ -5,20 +5,19 @@ layout: single
 toc: true
 ---
 
----
 ## Legals
 
 ### Responsible in the sense of § 5 TMG
 
-(**organization**)
-(street)
-(place)
+**organization**   
+(street)  
+(place)  
 (country)
 
 ### Represented by
 
-(name)
-(name)
+(name)  
+(name)  
 (...)
 
 ### Contact 
@@ -26,7 +25,7 @@ toc: true
 (Phone:)    
 (Fax:)  
 (Email:)  
-Internet: [https://psyrig.github.io][PsyRig]
+Internet: [https://psyrig.github.io](https://psyrig.github.io)
 
 ### Responsible for content in the sense of §55 RStV § 55 para. 2 RStV
 
@@ -36,7 +35,6 @@ Internet: [https://psyrig.github.io][PsyRig]
 (country)
 
 ### Disclaimer
-
 
 **Liability for Content**
 
@@ -54,7 +52,6 @@ Contents and compilations published on these websites by the providers are subje
 
 Copyright laws of third parties are respected as long as the contents on these websites do not originate from the provider. Contributions of third parties on this site are indicated as such. However, if you notice any violations of copyright law, please inform us. Such contents will be removed immediately.
 
----
 ## Privacy Policy
 
 Our privacy policy is available [here](enter internal link).

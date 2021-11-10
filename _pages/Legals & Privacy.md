@@ -9,13 +9,12 @@ toc: true
 
 ### Responsible in the sense of § 5 TMG
 
-**organization**   
+**Organization**   
 (street)  
 (place)  
 (country)
 
-### Represented by
-
+**Represented by**
 (name)  
 (name)  
 (...)
@@ -31,7 +30,7 @@ Internet: [https://psyrig.github.io](https://psyrig.github.io)
 
 (name)
 (street)
-(place)
+(place) 
 (country)
 
 ### Disclaimer
@@ -54,9 +53,4 @@ Copyright laws of third parties are respected as long as the contents on these w
 
 ## Privacy Policy
 
-Our privacy policy is available [here](enter internal link).
-
-----------------------------------------------------------------------
-
-
-    
+Our privacy policy is available [here](enter internal link).  

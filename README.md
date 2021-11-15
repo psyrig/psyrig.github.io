@@ -4,7 +4,7 @@
 
 Settings that affect your entire site can be changed in '_confing.yml.'
 
-Some useful settings are explained below. For further information: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#theme
+Some useful settings are explained below. For further information: [Click here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#theme)
 
 ### Skins
 Change the color scheme of the theme using one of the provided 'minimal_mistakes_skins'
@@ -33,7 +33,7 @@ Add .md files to /_pages/.
 
 ## HTML Tags and Formatting
 
-A variety of common markup showing how the theme styles them: [Click here] (https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+A variety of common markup showing how the theme styles them: [Click here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
 
 ## Images
 
@@ -50,9 +50,9 @@ Add images to /asstets/images/.
 |item normal      | 300x200                |
 
 More image demos: 
-- [Standard] (https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/)
-- [Gallery] (https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
-- [Alignment] (https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
+- [Standard](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/)
+- [Gallery](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
+- [Alignment](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
 
 ## Links to PDF 
 

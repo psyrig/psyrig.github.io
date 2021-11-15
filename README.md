@@ -2,7 +2,7 @@
 
 ## Configuration 
 
-Settings that affect your entire site can be changed in '_confing.yml.'
+Settings that affect your entire site can be changed in **'_confing.yml.'**
 
 Some useful settings are explained below. For further information: [Click here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#theme)
 
@@ -22,6 +22,7 @@ Change the color scheme of the theme using one of the provided 'minimal_mistakes
 |'defaults'                       | front matter defaults for posts, pages & collections                                                                              |
 
 
+---
 ## Pages/Posts
 
 Add .md files to /_pages/.
@@ -35,7 +36,7 @@ Add .md files to /_pages/.
 |author           | author_profile: true/false                                        |
 |site nav box     | toc:true/false                                                    |
 
-## HTML Tags and Formatting
+### HTML Tags and Formatting
 
 A variety of common markup showing how the theme styles them: [Click here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
 
@@ -60,9 +61,11 @@ More image demos:
 
 ### Links to PDF 
 
-[Link PDF](/assets/pdf/test_file.pdf) 
-
 Add .pdf files to /assets/pdf/.
+
+<a href="/assets/pdf/test_file.pdf">[&rarr; PDF link example]</a>
+
+
 
 
 

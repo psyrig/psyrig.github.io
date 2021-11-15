@@ -22,11 +22,11 @@ Change the color scheme of the theme using one of the provided 'minimal_mistakes
 |'defaults'                       | front matter defaults for posts, pages & collections                                                                              |
 
 
-### Pages/Posts
+## Pages/Posts
 
 Add .md files to /_pages/.
 
-## YAML Front Matter
+### YAML Front Matter
 
 |Setting          | Command                                                           |
 |-----------------|-------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Add .md files to /_pages/.
 
 A variety of common markup showing how the theme styles them: [Click here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
 
-## Images
+### Images
 
 Add images to /asstets/images/.
 
@@ -58,9 +58,9 @@ More image demos:
 - [Gallery](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
 - [Alignment](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
 
-## Links to PDF 
+### Links to PDF 
 
-[Link name](/assets/test_file.pdf) 
+[Link PDF](/assets/pdf/test_file.pdf) 
 
 Add .pdf files to /assets/pdf/.
 

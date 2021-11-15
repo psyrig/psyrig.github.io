@@ -11,6 +11,8 @@ Change the color scheme of the theme using one of the provided 'minimal_mistakes
 
 ### Default Site Settings 
 
+|Setting                          | Explanation                                                                                                                       |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 |'title'                          | name of your site                                                                                                                 | 
 |'subtitle'                       | short tagline that appears below the title in site masthead                                                                       |
 |'name'                           | used to assign a site author                                                                                                      |
@@ -26,6 +28,8 @@ Add .md files to /_pages/.
 
 ## YAML Front Matter
 
+|Setting          | Command                                                           |
+|-----------------|-------------------------------------------------------------------|
 |post dates       | show_date: true/false (or apply as a default in _'_confing.yml'_ )| 
 |reading time     | read_time: true/false ("-"                                        |
 |author           | author_profile: true/false                                        |
@@ -56,7 +60,7 @@ More image demos:
 
 ## Links to PDF 
 
-[Link name](/assets/file.pdf) 
+[Link name](/assets/test_file.pdf) 
 
 Add .pdf files to /assets/pdf/.
 

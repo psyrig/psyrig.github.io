@@ -28,9 +28,9 @@ Internet: [https://psyrig.github.io](https://psyrig.github.io)
 
 ### Responsible for content in the sense of §55 RStV § 55 para. 2 RStV
 
-(name)
-(street)
-(place)
+(name) 
+(street) 
+(place) 
 (country)
 
 ### Disclaimer
@@ -53,4 +53,4 @@ Copyright laws of third parties are respected as long as the contents on these w
 
 ## Privacy Policy
 
-Our privacy policy is available [here](enter internal link).  
+Our privacy policy is available [here](/assets/pdf/test_file.pdf).  
